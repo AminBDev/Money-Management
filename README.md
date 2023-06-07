@@ -1,10 +1,4 @@
-## Features
+A simple and practical application for managing transactions! Using this simple tool, you can easily record and edit your transactions. With just a few simple clicks, enter the required information such as amount, date, and description.
 
-- Record and edit transactions easily.
-- Enter transaction details such as amount, date, and description with just a few clicks.
-
-## Statistics
-
-- View detailed statistics of your transactions.
-- Gain quick insights into your patterns, consumption, and income on a daily basis.
+Also, this program allows you to view the statistics of your transactions. This will be very useful for you as a quick and daily look at your patterns, consumption, or income.
 
