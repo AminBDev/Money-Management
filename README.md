@@ -12,5 +12,12 @@ A simple and practical application for managing transactions! Using this simple 
 - View detailed statistics of your transactions.
 - Gain quick insights into your patterns, consumption, or income on a daily basis.
 
+## Transaction History
+
+![Line Chart](https://example.com/line-chart.png)
+
+The line chart above represents the historical trend of your transactions over time. It provides a visual representation of your financial activity and can help you identify patterns or fluctuations in your income and expenses.
+
 Get started with the Money Management application today and take control of your finances!
+
 
