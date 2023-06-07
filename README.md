@@ -14,10 +14,16 @@ A simple and practical application for managing transactions! Using this simple 
 
 ## Transaction History
 
-![Line Chart](https://example.com/line-chart.png)
-
 The line chart above represents the historical trend of your transactions over time. It provides a visual representation of your financial activity and can help you identify patterns or fluctuations in your income and expenses.
 
 Get started with the Money Management application today and take control of your finances!
+
+
+## Screenshot
+
+![Screenshot 1](https://www.uplooder.net/img/image/33/f0d454cb50261aacb6ee5c478a0e03f9/Wallpaper-(1).jpg)
+![Screenshot 2](https://www.uplooder.net/img/image/33/f0d454cb50261aacb6ee5c478a0e03f9/Wallpaper-(1).jpg)
+![Screenshot 3](https://www.uplooder.net/img/image/33/f0d454cb50261aacb6ee5c478a0e03f9/Wallpaper-(1).jpg)
+
 
 
