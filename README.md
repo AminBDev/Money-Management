@@ -1,16 +1,10 @@
-# money_management
+## Features
 
-A new Flutter project.
+- Record and edit transactions easily.
+- Enter transaction details such as amount, date, and description with just a few clicks.
 
-## Getting Started
+## Statistics
 
-This project is a starting point for a Flutter application.
+- View detailed statistics of your transactions.
+- Gain quick insights into your patterns, consumption, and income on a daily basis.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
