@@ -22,7 +22,7 @@ Get started with the Money Management application today and take control of your
 
 ## Download
 
-<a href="https://myket.ir/app/com.amin.bakhshi.moneyapp?utm_source=search-ads-gift&utm_medium=cpc"><img src="https://myket.ir/core/images/logo/get-en.png"  width="64" height="164" /> </a>
+<a href="https://myket.ir/app/com.amin.bakhshi.moneyapp?utm_source=search-ads-gift&utm_medium=cpc"><img src="https://myket.ir/core/images/logo/get-en.png"  width="164" height="64" /> </a>
 
 
 ## Screenshot
