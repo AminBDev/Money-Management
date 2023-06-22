@@ -27,9 +27,9 @@ Get started with the Money Management application today and take control of your
 
 ## Screenshot
 
-![Screenshot 1](https://s8.uupload.ir/files/1_nr8v.png)
-![Screenshot 2](https://s8.uupload.ir/files/2_1yil.png)
-![Screenshot 3](https://s8.uupload.ir/files/3_j3hb.png)
-
+![Screenshot 1](https://s8.uupload.ir/files/4_val9.png)
+![Screenshot 2](https://s8.uupload.ir/files/2_rd9y.png)
+![Screenshot 3](https://s8.uupload.ir/files/1_48n6.png)
+![Screenshot 3](https://s8.uupload.ir/files/3_4kyo.png)
 
 
