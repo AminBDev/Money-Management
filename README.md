@@ -28,7 +28,7 @@ Get started with the Money Management application today and take control of your
 ## Screenshot
 
 
-<a href="https://myket.ir/app/com.amin.bakhshi.moneyapp?utm_source=search-ads-gift&utm_medium=cpc"><img src="https://s8.uupload.ir/files/4_val9.png"  width="1080" height="1920" /> </a>
+
 
 
 ![Screenshot 1](https://s8.uupload.ir/files/4_val9.png)
